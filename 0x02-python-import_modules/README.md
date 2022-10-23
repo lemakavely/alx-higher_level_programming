@@ -1,1 +1,1 @@
-#this is the directory of project **python import modules**
+#this is the directory of **python-import & modules** projects
